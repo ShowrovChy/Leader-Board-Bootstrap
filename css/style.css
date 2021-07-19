@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.rating__time {
+  background-color: #fa95a0;
+}
+
+.stars .filled {
+  color: #fcc230;
+}
+
+.stars .empty {
+  color: lightgray;
+}
+.author-name {
+  text-decoration: none;
+}
